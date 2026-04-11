@@ -22,7 +22,9 @@ To help businesses connect with their audience through powerful content and effe
 ## 🔗 Connect With Me
 - Website: https://www.bizmeo.com  
     
-
----
-
 ⭐ Feel free to explore my repositories and resources related to SEO and content writing.
+
+## 📚 Additional Resources
+
+- 📄 [About Bizmeo](about.md)  
+- 🚀 [SEO Content Writing Guide](seo-guide.md)  
